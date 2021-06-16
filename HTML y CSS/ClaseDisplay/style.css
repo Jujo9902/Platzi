@@ -1,0 +1,61 @@
+.block-element {
+    background-color: green;
+    margin: 10px;
+    padding: 20px;
+}
+.nav {
+    background-color: peachpuff;
+    padding: 20px 20px;
+    list-style: none;
+    text-align: center;
+
+}
+.nav li{
+    display: inline-block;
+    font-size: 20px;
+    margin: 10px 0;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.logo{
+    text-align: start;
+    display: inline-block;
+    margin: 10px 0;
+    padding-right: 350px;
+}
+
+.menu {
+    text-align: end;
+    display: inline-block;
+    list-style: none;
+}
+.content {
+    background-color: khaki;
+    height: 100%;
+    width: 97.8vmin;
+    display: inline-block;
+
+}
+.barra{
+    width: 30%;
+    min-width: 150px;
+    height: 100%;
+    background-color: yellowgreen;
+    display: inline-block;
+    align-items: center;
+}
+.cuadro{
+    height: 16vmax;
+    margin: 1.5rem;
+    background-color: #6f7174;
+    border-radius: 10px;
+    display: block;
+  
+}
+.lista{
+    padding-inline-start: 0vw;
+}
+.parrafo {
+    display: inline-block;
+    position: static;
+  }
